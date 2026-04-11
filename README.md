@@ -43,11 +43,6 @@ with a fully resizable sidebar and dynamic detail panel.
 - Orphan node detection — nodes whose parent ID does not exist in the dataset
   are flagged with a ⚠ badge
 
-### File Type Icons
-Emoji icons colored per file type:
-📁 Folder · 🔷 TypeScript · 🟡 JavaScript · 🎨 CSS · 📋 JSON · 📝 Markdown
-📄 PDF · 📊 Excel / CSV · 🐍 Python · 🦀 Rust · 🐹 Go · 🗜 Archive · and more
-
 ---
 
 ## Setup
