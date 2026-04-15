@@ -48,7 +48,7 @@ with a fully resizable sidebar and dynamic detail panel.
 ## Setup
 
 ```bash
-# 1. Place your datasheet.json in the public directory
+# 1. Unzip the Datasheet
 unzip public/datasheet.json.zip -d public/
 
 # 2. Install dependencies
