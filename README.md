@@ -1,3 +1,10 @@
+# FS-Explorer — Windows 7 Dark Edition
+
+A hierarchical filesystem explorer built for scale. Handles 1,000,000+ nodes
+via lazy JSON loading and virtual scrolling. Windows 7 Aero dark glass aesthetic
+with a fully resizable sidebar and dynamic detail panel.
+
+---
 
 ## Setup
 
@@ -13,14 +20,6 @@ npm run dev
 
 # 4. Open in browser
 ```
-
----
-
-# FS-Explorer — Windows 7 Dark Edition
-
-A hierarchical filesystem explorer built for scale. Handles 1,000,000+ nodes
-via lazy JSON loading and virtual scrolling. Windows 7 Aero dark glass aesthetic
-with a fully resizable sidebar and dynamic detail panel.
 
 ---
 
