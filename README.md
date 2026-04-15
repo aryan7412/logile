@@ -1,3 +1,21 @@
+
+## Setup
+
+```bash
+# 1. Unzip the Datasheet
+unzip public/datasheet.json.zip -d public/
+
+# 2. Install dependencies
+npm install
+
+# 3. Start the dev server
+npm run dev
+
+# 4. Open in browser
+```
+
+---
+
 # FS-Explorer — Windows 7 Dark Edition
 
 A hierarchical filesystem explorer built for scale. Handles 1,000,000+ nodes
@@ -42,24 +60,6 @@ with a fully resizable sidebar and dynamic detail panel.
   (cannot move a folder into itself or any of its descendants)
 - Orphan node detection — nodes whose parent ID does not exist in the dataset
   are flagged with a ⚠ badge
-
----
-
-## Setup
-
-```bash
-# 1. Unzip the Datasheet
-unzip public/datasheet.json.zip -d public/
-
-# 2. Install dependencies
-npm install
-
-# 3. Start the dev server
-npm run dev
-
-# 4. Open in browser
-open http://localhost:3000
-```
 
 ---
 
