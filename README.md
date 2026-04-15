@@ -49,7 +49,7 @@ with a fully resizable sidebar and dynamic detail panel.
 
 ```bash
 # 1. Place your datasheet.json in the public directory
-cp /path/to/datasheet.json public/datasheet.json
+unzip public/datasheet.json.zip -d public/
 
 # 2. Install dependencies
 npm install
